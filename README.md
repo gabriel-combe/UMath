@@ -10,7 +10,7 @@ The Math Kernel Library (MKL) of Intel need to be installed.
 Simply add the header to your project to use it.
 
 ## Dependencies
-- [MKL]([https://github.com/glfw/glfw](https://github.com/oneapi-src/oneMKL))
+- [MKL](https://github.com/oneapi-src/oneMKL)
 
 ## Thoughts
 
